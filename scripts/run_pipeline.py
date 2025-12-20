@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Main pipeline execution script.
-Run with: python scripts/run_pipeline.py
-"""
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
