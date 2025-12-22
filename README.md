@@ -24,7 +24,7 @@ License
 
 🎯 OVERVIEW
 
-A comprehensive fraud detection system implementing cutting-edge machine learning techniques to identify fraudulent 
+A comprehensive fraud detection system implementing cutting-edge machine learning techniques to identify fraudulent
 
 transactions in highly imbalanced datasets.
 
@@ -118,7 +118,7 @@ Installation
 
 # Clone repo
 
-git clone https://github.com/yourusername/fraud-detection.git
+git clone https://github.com/Yenenesh12/fraud-detection-week5.git
 
 cd fraud-detection
 
